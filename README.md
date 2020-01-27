@@ -1,3 +1,1 @@
-# kings-study.github.io
-
-킹스 홈페이지!
+# 킹스 홈페이지!
